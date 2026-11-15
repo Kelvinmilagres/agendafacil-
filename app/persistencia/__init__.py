@@ -1,0 +1,1 @@
+"""Pacote de persistência (ADR-002): implementa as portas do domínio via SQLAlchemy."""
